@@ -17,7 +17,7 @@
 }
 
 .banner__pesquisa {
-    background-color: transparent;
+    background-color: #A020F0;
     border: 1px solid var(--branco);
     color: var(--branco);
     border-radius: 24px;
